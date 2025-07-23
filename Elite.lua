@@ -1,0 +1,3 @@
+-- Elite.lua
+local senha_correta = "bolacha"
+-- etc...
